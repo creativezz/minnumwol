@@ -11,15 +11,17 @@
         "ASENA_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
+            "value": "LizaMwol:::eyJjbGllbnRJRCI6InFEU0JNeU9OMTRqbTR1MDdteGlBUVE9PSIsInNlcnZlclRva2VuIjoiMUAwajNTcDhzeFdDQi9vdlRlYUdLdENiTmFWZWU5ejh3UWJMa3RhbG1hZ2I2MDFZMkNkcldLU1FMN3U1MVptVEExM0QxWGtWcEV2Q1Rld2c9PSIsImNsaWVudFRva2VuIjoicWNrRHV1bUxVSjljSzl1cGo4Z1lGWHVZZzdVSVBXTVJZNWpzVVpGV3lGTT0iLCJlbmNLZXkiOiJBeVNabEhpbDZ3cnhZTWZUZ2IyVnI5R1pwN3lpb08rL0cydzFYNVkyZmZ3PSIsIm1hY0tleSI6ImpoNUhHcFF0UDRraDFJUE5LVUJWZEV3bTVOb1pVUU9FcmhGVWNYQ0RrcmM9In0="
         },
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
             "required": false
+            "value": "917306888823"
         },
         "LANGUAGE": {
             "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
             "required": true,
-            "value": "en"
+            "value": "ml"
         },
         "BGM_FILTER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
@@ -54,7 +56,7 @@
         "FULL_EVA": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "NO_LOG": {
             "description": "Hata logu görmek istemiyorsanız true yapın. Set true if you don't want to see error log.",
